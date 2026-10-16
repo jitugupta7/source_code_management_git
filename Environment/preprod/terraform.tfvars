@@ -7,6 +7,10 @@ rgs = {
     name     = "test-rg2"
     location = "West US"
   }
+  rg3 = {
+    name     = "test-rg3"
+    location = "Central US"
+  }
 }
 
 storageaccount = {
